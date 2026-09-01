@@ -31,7 +31,7 @@ Experimental results show that the proposed method consistently outperforms repr
   <em>Overall framework of the proposed GWSegNet.</em>
 </p>
 
-The DINOv2 encoder provides four intermediate feature representations. ACFA aggregates the multi-stage features and applies global attention. The decoder then progressively restores spatial resolution through CAF and GCR blocks, followed by a detail refinement stage and the final segmentation head.
+
 
 ## 📂 Dataset
 
