@@ -1,0 +1,27 @@
+# Install a CUDA-compatible PyTorch build before installing this file.
+addict==2.4.0
+albumentations==2.0.4
+catalyst==21.5
+causal-conv1d==1.2.0.post2
+einops>=0.7,<1.0
+fvcore
+lightning==2.3.3
+mamba-ssm==1.2.0.post1
+matplotlib==3.8.2
+mmengine
+numba>=0.58
+numpy==1.26.2
+opencv-python==4.11.0.86
+packaging
+Pillow>=10
+scikit-image>=0.22
+seaborn
+submitit
+tensorboardX
+termcolor
+timm==1.0.14
+tqdm>=4.66
+triton
+ttach==0.0.3
+wcwidth==0.2.12
+yacs

@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Environments and packaging
+.venv/
+venv/
+env/
+build/
+dist/
+*.egg-info/
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Project data and generated artifacts
+data/
+model_weights/
+lightning_logs/
+fig_results/
+infer_results/
+outputs/
+logs/
+wandb/
+*.ckpt
+*.pth
+*.pt
+*.onnx
+
+# Native extension build products
+*.so
+*.pyd
+*.dll
+*.dylib
+*.o
+*.obj
+*.a
+*.lib
+*.egg
+kernels/**/build/
+geoseg/models/**/ops_*/build/
