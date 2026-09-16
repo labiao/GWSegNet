@@ -4,9 +4,9 @@ This repository contains the official PyTorch implementation of the paper **GWSe
 
 ## 📢 News
 
+- **[2026-09-16]** The dataset is released.
 - **[2026-09-01]** The GWSegNet repository is created.
 - **[2026-08-31]** The codes for our recent works, including [SGGWSeg](https://github.com/2022jiangjiazheng/SGGWSeg) and [TFCL-Net](https://github.com/HariwW/TFCL-Net), are also publicly available.
-- **[Coming Soon]** The dataset access will be released. 
 
 ## 📝 Abstract
 
