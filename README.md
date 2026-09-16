@@ -69,11 +69,11 @@ export GREAT_WALL_DATA_ROOT=/path/to/greatwall_beijing
 
 The regional subsets and download information are summarized below. Baidu Netdisk links and access codes will be added after the archives are uploaded.
 
-| Dataset | Study Area | Download | Access Code |
-| :-----: | :--------: | :------: | :---------: |
-| **GS-GW** | Gansu | *Coming soon* | — |
-| **HB-GW** | Hebei | *Coming soon* | — |
-| **BJ-GW** | Beijing | *Coming soon* | — |
+| Dataset | Study Area | Download |
+| :-----: | :--------: | :------: |
+| **GS-GW** | Gansu | [Baidu Netdisk](https://pan.baidu.com/s/1jB20pvu3U0uc5WOt_wp_1A?pwd=4hvj) |
+| **HB-GW** | Hebei | [Baidu Netdisk](https://pan.baidu.com/s/1LATZa13EZL5UM1iczhLdRA?pwd=76p9) |
+| **BJ-GW** | Beijing | [Baidu Netdisk](https://pan.baidu.com/s/1tXz_RAtb7cwQvIEHCD56pQ?pwd=7cdh) |
 
 ## 🛠️ Usage
 
